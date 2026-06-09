@@ -26,11 +26,9 @@ Claude Code / Cowork から使える社内スキル集です。**営業メンバ
 Claude Code / Cowork のチャットで以下を実行します。
 
 ```
-/plugin marketplace add <your-org>/kousotsu-claude-tools
+/plugin marketplace add endo-hayato22/kousotsu-claude-tools
 /plugin install kousotsu-tools@kousotsu-tools
 ```
-
-> `<your-org>/kousotsu-claude-tools` は社内で配布されたGitHubリポジトリ名に置き換えてください。
 
 インストール後、`/shodan-followup` と `/mirai-job-page` がコマンドとして使えるようになります。
 
