@@ -1,0 +1,17 @@
+{
+  "name": "kousotsu-tools",
+  "owner": {
+    "name": "株式会社高卒採用バンク",
+    "email": "endo@kousotsusaiyo-bank.jp"
+  },
+  "metadata": {
+    "description": "高卒採用バンク 社内ツール（みらいジョブ求人ページ作成＋商談後フォロー）"
+  },
+  "plugins": [
+    {
+      "name": "kousotsu-tools",
+      "source": "./plugins/kousotsu-tools",
+      "description": "みらいジョブ求人ページ作成（画像8:5最適化・インタビュー整形・修正対応）と、商談後フォローメール下書き＋提案書PDF生成をワンタップで行う社内スキル集。"
+    }
+  ]
+}

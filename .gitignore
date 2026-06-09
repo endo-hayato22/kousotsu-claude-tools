@@ -1,0 +1,5 @@
+# 個人別データ・生成物はコミットしない
+profile.json
+*.pyc
+__pycache__/
+.DS_Store
