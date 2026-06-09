@@ -1,9 +1,0 @@
-{
-  "name": "kousotsu-tools",
-  "description": "高卒採用バンク 社内スキル集。みらいジョブ求人ページ作成（求人画像の8:5最適化・社員インタビュー整形・先方修正依頼対応）と、商談後フォローメールのGmail下書き＋提案書PDF生成を行う。",
-  "author": {
-    "name": "遠藤隼聖",
-    "email": "endo@kousotsusaiyo-bank.jp"
-  },
-  "homepage": "https://kousotsusaiyo-bank.jp/"
-}
